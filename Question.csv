@@ -1,0 +1,41 @@
+id,question,choix,idrep,rep,niveau
+1,What is a "Cat" ?,1. Un chien   2. Un chat   3. Un lapin,2,Un chat,0
+2,What is a "Dog" ?,1. Un chien   2. Un lapin   3. Un chat,1,Un chien,0
+3,What is a "Rabbit"?,1. Un chat   2. Un chien   3. Un lapin,3,Un lapin,0
+4,What is a "Bird" ?,1. Un chat   2. Un oiseau   3. Un lapin,2,Un oiseau,0
+5,What color is grass ?,1. Red    2. Blue   3. Green,3,Green,1
+6,What color is water ?,1. Blue   2. Purple  3. Yellow,1,Blue,1
+7,What color is a tree ?,1. Brown  2. White  3. Orange,1,Brown,1
+8,What color is the sun ?,1. Green  2. Yellow  3. Black,2,Yellow,1
+9,What is the french for "tall" ?,1. Grand  2. Petit  3. Gros ,1,Grand,2
+10,What is the french for "small" ?,1. Gros  2. Petit  3. Grand,2,Petit,2
+11,What is the french for "big" ?,1. Gros  2. Petit  3. Grand,1,Gros,2
+12,What is the french for "lite" ?,1. Gros  2. Grand  3. Léger,3,Léger,2
+13,Comment dit-on "Bonjour" ?,1. Good Bye  2. Hello  3. Good Night,2,Hello,3
+14,Comment dit-on "Au revoir" ?,1. Hello  2. Good Bye 3. Good Night,2,Good Bye,3
+15,Comment dit-on "Bonne nuit" ?,1. Thank you  2. Good Bye 3. Good Night,3,Good Night,3
+16,Comment dit-on "Merci" ?,1. Hello  2. Good Bye 3. Thank you,3,Thank you,3
+17,What is a "Mouth" ?,1. Une bouche  2. Un nez  3. Un oeil,1,Une bouche,4
+18,What is a "Nose" ?,1. Une bouche  2. Un nez  3. Un oeil,2,Un nez,4
+19,What is a "Eye" ?,1. Une oreille  2. Un nez  3. Un oeil,3,Un oeil,4
+20,What is a "Ear" ?,1. Une oreille  2. Un nez  3. Un oeil,1,Une oreille,4
+21,Comment dit-on "Mère" ?,1. Father  2. Brother  3. Mother,3,Mother,5
+22,Comment dit-on "Père" ?,1. Father  2. Brother  3. Mother,1,Father,5
+23,Comment dit-on "Frère" ?,1. Father  2. Brother  3. Sister,2,Brother,5
+24,Comment dit-on "Soeur" ?,1. Father  2. Brother  3. Sister,3,Sister,5
+25,What is the "Summer" ?,1. L'été  2. Le printemps  3. L'automne,1,L'été,6
+26,What is the "Winter" ?,1. L'hiver  2. Le printemps  3. L'automne,1,L'hiver,6
+27,What is the "Autumn" ?,1. L'été  2. Le printemps  3. L'automne,3,L'antomne,6
+28,What is the "Spring" ?,1. L'hiver  2. Le printemps  3. L'automne,2,Le printemps,6
+29,Comment dit-on "Haut" ?,1. Up  2. Down  3. Left,1,Up,7
+30,Comment dit-on "Bas" ?,1. Up  2. Down  3. Left,2,Down,7
+31,Comment dit-on "Gauche" ?,1. Up  2. Right  3. Left,3,Left,7
+32,Comment dit-on "Droite" ?,1. Right  2. Down  3. Left,1,Right,7
+33,What is a "Man" ?,1. Un homme  2. Une femme  3. Un garçon,1,Un homme,8
+34,What is a "Woman" ?,1. Un homme  2. Une femme  3. Un garçon,2,Une femme,8
+35,What is a "Boy" ?,1. Un homme  2. Une femme  3. Un garçon,3,Un garçon,8
+36,What is a "Girl" ?,1. Une fille  2. Une femme  3. Un garçon,1,Une fille,8
+37,Comment dit-on "Manger" ?,1. to eat  2. to sleep 3. to wash,1,to eat,9
+38,Comment dit-on "Dormir" ?,1. to eat  2. to sleep 3. to wash,2,to sleep,9
+39,Comment dit-on "Se laver" ?,1. to eat  2. to sleep 3. to wash,3,to wash,9
+40,-,-,-,-,10
